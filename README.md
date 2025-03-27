@@ -1,7 +1,7 @@
 # README
 Código del curso de Diseño de Bases de Datos - Universidad Nacional de Ingeniería.
 
-### Para usar PostgreSQL (Localmente - Portable)
+######### Para usar PostgreSQL (Localmente - Portable)
 
 1. Descargue el paquete postgres desde la ruta de descarga del curso.
 2. **Descomprima** el archivo zip.
